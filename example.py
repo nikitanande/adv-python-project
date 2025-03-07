@@ -19,3 +19,8 @@ i,a =simple_interest (p,n,r)
 # print the interest and amount
 print(f"simple Interest :{i:.2f} INR")
 print(f"Amount : {a:.2f} INR")
+
+
+
+
+
